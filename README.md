@@ -1,2 +1,2 @@
 # HelloGitHub
-Test verzování
+Repozitář pro zkoušku verzování.
